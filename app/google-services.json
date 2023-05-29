@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410723541944",
+    "project_id": "qrbarkodolusturma",
+    "storage_bucket": "qrbarkodolusturma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410723541944:android:186c62b5f6d9260a25654d",
+        "android_client_info": {
+          "package_name": "com.example.fnalodev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBoOF1PzmcOIjYMshn4PBDO0hDSlJtBgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
